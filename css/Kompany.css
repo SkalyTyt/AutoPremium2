@@ -1,0 +1,2686 @@
+.header_menu ul{
+    list-style-type: none;
+    margin-left: 319px;
+    margin-top: -78px;
+}
+.header_menu a {
+     text-decoration: none;
+     color: black;
+     font-size: 24px;
+}
+.img_header{
+margin-left: 86px;
+margin-top: 35px;
+}
+.header_menu li{
+    display:inline-block ;
+    margin-right: 148px;
+}
+.search {
+    display: flex;
+    font-size: 20px;
+    margin-left: 1154px;
+    margin-top: -60px;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    width: 520px;
+}
+.search_img {
+margin-top: 0px;
+margin-left: 374px;
+}
+.header_login {
+    margin-left: 1796px;
+    margin-top: -60px;
+}
+.logim_p {
+    margin-top: -10px;
+    margin-left: 5px;
+}
+
+.menu li:hover {
+    border-bottom: 1px solid grey;
+}
+.header_login:hover {
+
+     cursor: pointer;
+     transform: scale(1.1);
+}
+.header_login img:hover {
+
+     cursor: pointer;
+
+}
+
+main {
+    padding-top: 40px;
+}
+
+.iskustvo {
+    width: 1770px;
+    height: 1268px;
+    background-color: #E4E4E4;
+    display: flex;
+    margin-left: 75px;
+    justify-content: center;
+    border-radius: 30px;
+}
+
+.Komp {
+    text-align: center;
+    padding-bottom: 40px;
+    font-size: 40px;
+}
+
+.isk {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-size: 48px;
+
+}
+
+.sled {
+    text-align: center;
+    width: 942px;
+    height: 838px;
+    border-radius: 30px;
+    background-color: #D9D9D9;
+    padding-top: 10px;
+}
+
+.italon {
+    flex-wrap: wrap;
+    display: flex;
+    gap: 20px;
+}
+
+.italon2 {
+    flex-wrap: wrap;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+
+.ff {
+    background-color: #D9D9D9;
+    border-radius: 30px;
+    width: 608px;
+    height: 260px;
+    text-align: left;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+.fff {
+    background-color: #D9D9D9;
+    border-radius: 30px;
+    width: 608px;
+    height: 260px;
+    text-align: left;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+.ffff {
+    background-color: #D9D9D9;
+    border-radius: 30px;
+    width: 608px;
+    height: 260px;
+    text-align: left;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+.sled h1 {
+    font-size: 48px;
+}
+
+.italon2 h1 {
+    font-size: 48px;
+}
+
+.sled p {
+    font-size: 32px;
+    padding-top: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.italon2 p {
+    font-size: 32px;
+}
+
+.preim {
+    width: 1770px;
+    height: 688px;
+    background-color: #E4E4E4;
+    margin-left: 75px;
+    justify-content: center;
+    border-radius: 30px;
+    margin-top: 100px;
+}
+
+.prem_dl {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-size: 48px;
+}
+
+.preim-vas {
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+}
+
+.detal {
+    text-align: center;
+    width: 735px;
+    height: 406px;
+    border-radius: 30px;
+    background-color: #D9D9D9;
+    padding-top: 10px;
+}
+
+.ekskl {
+   text-align: center;
+    width: 735px;
+    height: 406px;
+    border-radius: 30px;
+    background-color: #D9D9D9;
+    padding-top: 10px; 
+}
+
+
+.preim-vas h1 {
+    font-size: 48px;
+}
+
+.preim-vas p {
+    font-size: 32px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    margin: 0 auto;
+    border-bottom: 2px solid black;
+    width: 1650px;
+}
+
+.footer-nav {
+    display: flex;
+    gap: 50px;
+    font-size: 20px;
+}
+
+.footer-li {
+    display: flex;
+    align-items: center;
+}
+
+.down-footer {
+    text-align: center;
+    font-size: 16px;
+}
+
+@media (max-width: 1820px){
+
+    main {
+        padding-top: 40px;
+    }
+
+    .iskustvo {
+        width: 1670px;
+        height: 1268px;
+        background-color: #E4E4E4;
+        display: flex;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+    }
+
+    .Komp {
+        text-align: center;
+        padding-bottom: 40px;
+        font-size: 40px;
+    }
+
+    .isk {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 48px;
+    }
+
+    .sled {
+        text-align: center;
+        width: 942px;
+        height: 838px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .italon {
+        flex-wrap: wrap;
+        display: flex;
+        gap: 20px;
+    }
+
+    .italon2 {
+        flex-wrap: wrap;
+        display: flex;
+        gap: 20px;
+        flex-direction: column;
+    }
+
+    .ff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 608px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .fff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 608px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .ffff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 608px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .sled h1 {
+        font-size: 48px;
+    }
+
+    .italon2 h1 {
+        font-size: 48px;
+    }
+
+    .sled p {
+        font-size: 32px;
+    }
+
+    .italon2 p {
+        font-size: 32px;
+    }
+
+    .preim {
+        width: 1670px;
+        height: 688px;
+        background-color: #E4E4E4;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+        margin-top: 100px;
+    }
+
+    .prem_dl {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 48px;
+    }
+
+    .preim-vas {
+        display: flex;
+        gap: 70px;
+        justify-content: center;
+    }
+
+    .detal {
+        text-align: center;
+        width: 735px;
+        height: 406px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .ekskl {
+        text-align: center;
+        width: 735px;
+        height: 406px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px; 
+    }
+
+
+    .preim-vas h1 {
+        font-size: 48px;
+    }
+
+    .preim-vas p {
+        font-size: 32px;
+    }
+}
+
+@media (max-width: 1720px){
+
+    main {
+        padding-top: 40px;
+    }
+
+    .iskustvo {
+        width: 1570px;
+        height: 1268px;
+        background-color: #E4E4E4;
+        display: flex;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+    }
+
+    .Komp {
+        text-align: center;
+        padding-bottom: 40px;
+        font-size: 39px;
+    }
+
+    .isk {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 46px;
+
+    }
+
+    .sled {
+        text-align: center;
+        width: 842px;
+        height: 838px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .italon {
+        flex-wrap: wrap;
+        display: flex;
+        gap: 20px;
+    }
+
+    .italon2 {
+        flex-wrap: wrap;
+        display: flex;
+        gap: 20px;
+        flex-direction: column;
+    }
+
+    .ff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 608px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .fff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 608px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .ffff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 608px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .sled h1 {
+        font-size: 45px;
+    }
+
+    .italon2 h1 {
+        font-size: 45px;
+    }
+
+    .sled p {
+        font-size: 30px;
+    }
+
+    .italon2 p {
+        font-size: 30px;
+    }
+
+    .preim {
+        width: 1570px;
+        height: 688px;
+        background-color: #E4E4E4;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+        margin-top: 100px;
+    }
+
+    .prem_dl {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 46px;
+    }
+
+    .preim-vas {
+        display: flex;
+        gap: 70px;
+        justify-content: center;
+    }
+
+    .detal {
+        text-align: center;
+        width: 685px;
+        height: 406px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .ekskl {
+        text-align: center;
+        width: 685px;
+        height: 406px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px; 
+    }
+
+
+    .preim-vas h1 {
+        font-size: 45px;
+    }
+
+    .preim-vas p {
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 1620px){
+
+    main {
+        padding-top: 40px;
+    }
+
+    .iskustvo {
+        width: 1470px;
+        height: 1188px;
+        background-color: #E4E4E4;
+        display: flex;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+    }
+
+    .Komp {
+        text-align: center;
+        padding-bottom: 40px;
+        font-size: 39px;
+    }
+
+    .isk {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 46px;
+
+    }
+
+    .sled {
+        text-align: center;
+        width: 792px;
+        height: 838px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .italon {
+        flex-wrap: wrap;
+        display: flex;
+        gap: 20px;
+    }
+
+    .italon2 {
+        flex-wrap: wrap;
+        display: flex;
+        gap: 20px;
+        flex-direction: column;
+    }
+
+    .ff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 558px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .fff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 558px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .ffff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 558px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .sled h1 {
+        font-size: 45px;
+    }
+
+    .italon2 h1 {
+        font-size: 45px;
+    }
+
+    .sled p {
+        font-size: 30px;
+    }
+
+    .italon2 p {
+        font-size: 30px;
+    }
+
+    .preim {
+        width: 1470px;
+        height: 688px;
+        background-color: #E4E4E4;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+        margin-top: 100px;
+    }
+
+    .prem_dl {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 46px;
+    }
+
+    .preim-vas {
+        display: flex;
+        gap: 70px;
+        justify-content: center;
+    }
+
+    .detal {
+        text-align: center;
+        width: 635px;
+        height: 406px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .ekskl {
+        text-align: center;
+        width: 635px;
+        height: 406px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px; 
+    }
+
+
+    .preim-vas h1 {
+        font-size: 45px;
+    }
+
+    .preim-vas p {
+        font-size: 30px;
+    }
+
+}
+
+@media (max-width: 1520px){
+
+    main {
+        padding-top: 40px;
+    }
+
+    .iskustvo {
+        width: 1370px;
+        height: 1188px;
+        background-color: #E4E4E4;
+        display: flex;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+    }
+
+    .Komp {
+        text-align: center;
+        padding-bottom: 40px;
+        font-size: 39px;
+    }
+
+    .isk {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 46px;
+
+    }
+
+    .sled {
+        text-align: center;
+        width: 742px;
+        height: 838px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .italon {
+        flex-wrap: wrap;
+        display: flex;
+        gap: 20px;
+    }
+
+    .italon2 {
+        flex-wrap: wrap;
+        display: flex;
+        gap: 20px;
+        flex-direction: column;
+    }
+
+    .ff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 508px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .fff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 508px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .ffff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 508px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .sled h1 {
+        font-size: 45px;
+    }
+
+    .italon2 h1 {
+        font-size: 45px;
+    }
+
+    .sled p {
+        font-size: 30px;
+    }
+
+    .italon2 p {
+        font-size: 30px;
+    }
+
+    .preim {
+        width: 1370px;
+        height: 688px;
+        background-color: #E4E4E4;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+        margin-top: 100px;
+    }
+
+    .prem_dl {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 46px;
+    }
+
+    .preim-vas {
+        display: flex;
+        gap: 70px;
+        justify-content: center;
+    }
+
+    .detal {
+        text-align: center;
+        width: 585px;
+        height: 406px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .ekskl {
+        text-align: center;
+        width: 585px;
+        height: 406px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px; 
+    }
+
+
+    .preim-vas h1 {
+        font-size: 45px;
+    }
+
+    .preim-vas p {
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 1420px){
+
+    main {
+        padding-top: 40px;
+    }
+
+    .iskustvo {
+        width: 1270px;
+        height: 1188px;
+        background-color: #E4E4E4;
+        display: flex;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+    }
+
+    .Komp {
+        text-align: center;
+        padding-bottom: 40px;
+        font-size: 39px;
+    }
+
+    .isk {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 46px;
+
+    }
+
+    .sled {
+        text-align: center;
+        width: 692px;
+        height: 838px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .italon {
+        flex-wrap: wrap;
+        display: flex;
+        gap: 20px;
+    }
+
+    .italon2 {
+        flex-wrap: wrap;
+        display: flex;
+        gap: 20px;
+        flex-direction: column;
+    }
+
+    .ff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 458px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .fff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 458px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .ffff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 458px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .sled h1 {
+        font-size: 45px;
+    }
+
+    .italon2 h1 {
+        font-size: 45px;
+    }
+
+    .sled p {
+        font-size: 30px;
+    }
+
+    .italon2 p {
+        font-size: 30px;
+    }
+
+    .preim {
+        width: 1270px;
+        height: 688px;
+        background-color: #E4E4E4;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+        margin-top: 100px;
+    }
+
+    .prem_dl {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 46px;
+    }
+
+    .preim-vas {
+        display: flex;
+        gap: 70px;
+        justify-content: center;
+    }
+
+    .detal {
+        text-align: center;
+        width: 535px;
+        height: 406px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .ekskl {
+        text-align: center;
+        width: 535px;
+        height: 406px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px; 
+    }
+
+
+    .preim-vas h1 {
+        font-size: 45px;
+    }
+
+    .preim-vas p {
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 1320px){
+
+    main {
+        padding-top: 40px;
+    }
+
+    .iskustvo {
+        width: 1170px;
+        height: 1188px;
+        background-color: #E4E4E4;
+        display: flex;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+    }
+
+    .Komp {
+        text-align: center;
+        padding-bottom: 40px;
+        font-size: 38px;
+    }
+
+    .isk {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 42px;
+
+    }
+
+    .sled {
+        text-align: center;
+        width: 642px;
+        height: 838px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .italon {
+        flex-wrap: wrap;
+        display: flex;
+        gap: 20px;
+    }
+
+    .italon2 {
+        flex-wrap: wrap;
+        display: flex;
+        gap: 20px;
+        flex-direction: column;
+    }
+
+    .ff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 408px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .fff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 408px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .ffff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 408px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .sled h1 {
+        font-size: 42px;
+    }
+
+    .italon2 h1 {
+        font-size: 42px;
+    }
+
+    .sled p {
+        font-size: 28px;
+    }
+
+    .italon2 p {
+        font-size: 28px;
+        padding-right: 5px;
+    }
+
+    .preim {
+        width: 1170px;
+        height: 688px;
+        background-color: #E4E4E4;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+        margin-top: 100px;
+    }
+
+    .prem_dl {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 46px;
+    }
+
+    .preim-vas {
+        display: flex;
+        gap: 70px;
+        justify-content: center;
+    }
+
+    .detal {
+        text-align: center;
+        width: 485px;
+        height: 406px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .ekskl {
+        text-align: center;
+        width: 485px;
+        height: 406px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px; 
+    }
+
+
+    .preim-vas h1 {
+        font-size: 42px;
+    }
+
+    .preim-vas p {
+        font-size: 28px;
+    }
+}
+
+@media (max-width: 1220px){
+
+    main {
+        padding-top: 40px;
+    }
+
+    .iskustvo {
+        width: 1070px;
+        height: 1188px;
+        background-color: #E4E4E4;
+        display: flex;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+    }
+
+    .Komp {
+        text-align: center;
+        padding-bottom: 40px;
+        font-size: 38px;
+    }
+
+    .isk {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 42px;
+
+    }
+
+    .sled {
+        text-align: center;
+        width: 592px;
+        height: 838px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .italon {
+        flex-wrap: wrap;
+        display: flex;
+        gap: 20px;
+    }
+
+    .italon2 {
+        flex-wrap: wrap;
+        display: flex;
+        gap: 20px;
+        flex-direction: column;
+    }
+
+    .ff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 358px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .fff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 358px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .ffff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 358px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .sled h1 {
+        font-size: 42px;
+    }
+
+    .italon2 h1 {
+        font-size: 42px;
+    }
+
+    .sled p {
+        font-size: 28px;
+    }
+
+    .italon2 p {
+        font-size: 28px;
+        padding-right: 5px;
+    }
+
+    .preim {
+        width: 1070px;
+        height: 688px;
+        background-color: #E4E4E4;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+        margin-top: 100px;
+    }
+
+    .prem_dl {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 46px;
+    }
+
+    .preim-vas {
+        display: flex;
+        gap: 70px;
+        justify-content: center;
+    }
+
+    .detal {
+        text-align: center;
+        width: 455px;
+        height: 406px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .ekskl {
+        text-align: center;
+        width: 455px;
+        height: 406px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px; 
+    }
+
+
+    .preim-vas h1 {
+        font-size: 42px;
+    }
+
+    .preim-vas p {
+        font-size: 28px;
+    }
+
+}
+
+@media (max-width: 1120px){
+
+    main {
+        padding-top: 40px;
+    }
+
+    .iskustvo {
+        width: 970px;
+        height: 1188px;
+        background-color: #E4E4E4;
+        display: flex;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+    }
+
+    .Komp {
+        text-align: center;
+        padding-bottom: 40px;
+        font-size: 38px;
+    }
+
+    .isk {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 42px;
+
+    }
+
+    .sled {
+        text-align: center;
+        width: 542px;
+        height: 838px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .italon {
+        flex-wrap: wrap;
+        display: flex;
+        gap: 20px;
+    }
+
+    .italon2 {
+        flex-wrap: wrap;
+        display: flex;
+        gap: 20px;
+        flex-direction: column;
+    }
+
+    .ff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 308px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .fff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 308px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .ffff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 308px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .sled h1 {
+        font-size: 40px;
+    }
+
+    .italon2 h1 {
+        font-size: 40px;
+    }
+
+    .sled p {
+        font-size: 27px;
+    }
+
+    .italon2 p {
+        font-size: 27px;
+        padding-right: 5px;
+    }
+
+    .preim {
+        width: 970px;
+        height: 688px;
+        background-color: #E4E4E4;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+        margin-top: 100px;
+    }
+
+    .prem_dl {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 42px;
+    }
+
+    .preim-vas {
+        display: flex;
+        gap: 70px;
+        justify-content: center;
+    }
+
+    .detal {
+        text-align: center;
+        width: 405px;
+        height: 406px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .ekskl {
+        text-align: center;
+        width: 405px;
+        height: 406px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px; 
+    }
+
+
+    .preim-vas h1 {
+        font-size: 40px;
+    }
+
+    .preim-vas p {
+        font-size: 27px;
+    }
+
+}
+
+@media (max-width: 1020px){
+
+    main {
+        padding-top: 40px;
+    }
+
+    .iskustvo {
+        width: 870px;
+        height: 1188px;
+        background-color: #E4E4E4;
+        display: flex;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+    }
+
+    .Komp {
+        text-align: center;
+        padding-bottom: 40px;
+        font-size: 37px;
+    }
+
+    .isk {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 40px;
+
+    }
+
+    .sled {
+        text-align: center;
+        width: 492px;
+        height: 838px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .italon {
+        flex-wrap: wrap;
+        display: flex;
+        gap: 20px;
+    }
+
+    .italon2 {
+        flex-wrap: wrap;
+        display: flex;
+        gap: 20px;
+        flex-direction: column;
+    }
+
+    .ff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 258px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .fff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 258px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .ffff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 258px;
+        height: 260px;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    .sled h1 {
+        font-size: 40px;
+    }
+
+    .italon2 h1 {
+        font-size: 40px;
+    }
+
+    .sled p {
+        font-size: 26px;
+    }
+
+    .italon2 p {
+        font-size: 26px;
+        padding-right: 5px;
+    }
+
+    .preim {
+        width: 870px;
+        height: 688px;
+        background-color: #E4E4E4;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+        margin-top: 100px;
+    }
+
+    .prem_dl {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 42px;
+    }
+
+    .preim-vas {
+        display: flex;
+        gap: 70px;
+        justify-content: center;
+    }
+
+    .detal {
+        text-align: center;
+        width: 355px;
+        height: 406px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .ekskl {
+        text-align: center;
+        width: 355px;
+        height: 406px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px; 
+    }
+
+
+    .preim-vas h1 {
+        font-size: 38px;
+    }
+
+    .preim-vas p {
+        font-size: 25px;
+    }
+
+}
+
+@media (max-width: 920px){
+
+    main {
+        padding-top: 40px;
+    }
+
+    .iskustvo {
+        width: 770px;
+        height: 1578px;
+        background-color: #E4E4E4;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+    }
+
+    .Komp {
+        text-align: center;
+        padding-bottom: 40px;
+        font-size: 37px;
+    }
+
+    .isk {
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 40px;
+
+    }
+
+    .sled {
+        text-align: center;
+        width: 702px;
+        height: 388px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .italon {
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .italon2 {
+        gap: 20px;
+    }
+
+    .ff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 702px;
+        height: 260px;
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+
+    .fff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 702px;
+        height: 260px;
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+
+    .ffff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 702px;
+        height: 260px;
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+
+    .sled h1 {
+        font-size: 40px;
+    }
+
+    .italon2 h1 {
+        font-size: 40px;
+    }
+
+    .sled p {
+        font-size: 26px;
+    }
+
+    .italon2 p {
+        font-size: 26px;
+        padding-right: 5px;
+    }
+
+    .preim {
+        width: 770px;
+        height: 888px;
+        background-color: #E4E4E4;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+        margin-top: 100px;
+    }
+
+    .prem_dl {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 42px;
+        align-items: center;
+    }
+
+    .preim-vas {
+        flex-direction: column;
+        display: flex;
+        gap: 20px;
+        justify-content: center;
+        align-items: center; 
+    }
+
+    .detal {
+        text-align: center;
+        width: 702px;
+        height: 306px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .ekskl {
+        text-align: center;
+        width: 702px;
+        height: 326px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px; 
+    }
+
+
+    .preim-vas h1 {
+        font-size: 38px;
+    }
+
+    .preim-vas p {
+        font-size: 25px;
+    }
+
+}
+
+@media (max-width: 820px){
+
+    main {
+        padding-top: 40px;
+    }
+
+    .iskustvo {
+        width: 670px;
+        height: 1578px;
+        background-color: #E4E4E4;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+    }
+
+    .Komp {
+        text-align: center;
+        padding-bottom: 40px;
+        font-size: 37px;
+    }
+
+    .isk {
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 40px;
+
+    }
+
+    .sled {
+        text-align: center;
+        width: 602px;
+        height: 388px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .italon {
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .italon2 {
+        gap: 20px;
+    }
+
+    .ff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 602px;
+        height: 260px;
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+
+    .fff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 602px;
+        height: 260px;
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+
+    .ffff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 602px;
+        height: 260px;
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+
+    .sled h1 {
+        font-size: 40px;
+    }
+
+    .italon2 h1 {
+        font-size: 40px;
+    }
+
+    .sled p {
+        font-size: 26px;
+    }
+
+    .italon2 p {
+        font-size: 26px;
+        padding-right: 5px;
+    }
+
+    .preim {
+        width: 670px;
+        height: 888px;
+        background-color: #E4E4E4;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+        margin-top: 100px;
+    }
+
+    .prem_dl {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 42px;
+        align-items: center;
+    }
+
+    .preim-vas {
+        flex-direction: column;
+        display: flex;
+        gap: 20px;
+        justify-content: center;
+        align-items: center; 
+    }
+
+    .detal {
+        text-align: center;
+        width: 602px;
+        height: 306px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .ekskl {
+        text-align: center;
+        width: 602px;
+        height: 326px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px; 
+    }
+
+
+    .preim-vas h1 {
+        font-size: 38px;
+    }
+
+    .preim-vas p {
+        font-size: 25px;
+    }
+
+}
+
+@media (max-width: 720px){
+
+    main {
+        padding-top: 40px;
+    }
+
+    .iskustvo {
+        width: 570px;
+        height: 1678px;
+        background-color: #E4E4E4;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+    }
+
+    .Komp {
+        text-align: center;
+        padding-bottom: 40px;
+        font-size: 37px;
+    }
+
+    .isk {
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 40px;
+
+    }
+
+    .sled {
+        text-align: center;
+        width: 502px;
+        height: 488px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .italon {
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .italon2 {
+        gap: 20px;
+    }
+
+    .ff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 502px;
+        height: 260px;
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+
+    .fff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 502px;
+        height: 260px;
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+
+    .ffff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 502px;
+        height: 260px;
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+
+    .sled h1 {
+        font-size: 40px;
+    }
+
+    .italon2 h1 {
+        font-size: 40px;
+    }
+
+    .sled p {
+        font-size: 26px;
+    }
+
+    .italon2 p {
+        font-size: 26px;
+        padding-right: 5px;
+    }
+
+    .preim {
+        width: 570px;
+        height: 888px;
+        background-color: #E4E4E4;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+        margin-top: 100px;
+    }
+
+    .prem_dl {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 42px;
+        align-items: center;
+    }
+
+    .preim-vas {
+        flex-direction: column;
+        display: flex;
+        gap: 20px;
+        justify-content: center;
+        align-items: center; 
+    }
+
+    .detal {
+        text-align: center;
+        width: 502px;
+        height: 306px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .ekskl {
+        text-align: center;
+        width: 502px;
+        height: 326px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px; 
+    }
+
+
+    .preim-vas h1 {
+        font-size: 38px;
+    }
+
+    .preim-vas p {
+        font-size: 25px;
+    }
+
+}
+
+@media (max-width: 620px){
+
+    main {
+        padding-top: 40px;
+    }
+
+    .iskustvo {
+        width: 470px;
+        height: 1678px;
+        background-color: #E4E4E4;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+    }
+
+    .Komp {
+        text-align: center;
+        padding-bottom: 40px;
+        font-size: 37px;
+    }
+
+    .isk {
+        text-align: center;
+        justify-content: center;
+        padding-top: 20px;
+        padding-bottom: 60px;
+        font-size: 40px;
+
+    }
+
+    .sled {
+        text-align: center;
+        width: 402px;
+        height: 558px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .italon {
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .italon2 {
+        gap: 20px;
+    }
+
+    .ff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 402px;
+        height: 260px;
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+
+    .fff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 402px;
+        height: 260px;
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+
+    .ffff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 402px;
+        height: 260px;
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+
+    .sled h1 {
+        font-size: 40px;
+    }
+
+    .italon2 h1 {
+        font-size: 40px;
+    }
+
+    .sled p {
+        font-size: 26px;
+    }
+
+    .italon2 p {
+        font-size: 26px;
+        padding-right: 5px;
+    }
+
+    .preim {
+        width: 470px;
+        height: 888px;
+        background-color: #E4E4E4;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+        margin-top: 100px;
+    }
+
+    .prem_dl {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 42px;
+        align-items: center;
+    }
+
+    .preim-vas {
+        flex-direction: column;
+        display: flex;
+        gap: 20px;
+        justify-content: center;
+        align-items: center; 
+    }
+
+    .detal {
+        text-align: center;
+        width: 402px;
+        height: 306px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .ekskl {
+        text-align: center;
+        width: 402px;
+        height: 326px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px; 
+    }
+
+
+    .preim-vas h1 {
+        font-size: 38px;
+    }
+
+    .preim-vas p {
+        font-size: 25px;
+    }
+
+}
+
+@media (max-width: 520px){
+
+    main {
+        padding-top: 40px;
+    }
+
+    .iskustvo {
+        width: 370px;
+        height: 1608px;
+        background-color: #E4E4E4;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+    }
+
+    .Komp {
+        text-align: center;
+        padding-bottom: 40px;
+        font-size: 27px;
+    }
+
+    .isk {
+        text-align: center;
+        justify-content: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-size: 27px;
+
+    }
+
+    .sled {
+        text-align: center;
+        width: 302px;
+        height: 558px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 0px;
+    }
+
+    .italon {
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .italon2 {
+        gap: 20px;
+    }
+
+    .ff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 302px;
+        height: 260px;
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+
+    .fff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 302px;
+        height: 260px;
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+
+    .ffff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 302px;
+        height: 260px;
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+
+    .sled h1 {
+        font-size: 27px;
+    }
+
+    .italon2 h1 {
+        font-size: 27px;
+    }
+
+    .sled p {
+        font-size: 22px;
+    }
+
+    .italon2 p {
+        font-size: 22px;
+        padding-right: 5px;
+    }
+
+    .preim {
+        width: 370px;
+        height: 888px;
+        background-color: #E4E4E4;
+        margin-left: 75px;
+        justify-content: center;
+        border-radius: 30px;
+        margin-top: 100px;
+    }
+
+    .prem_dl {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 27px;
+        align-items: center;
+    }
+
+    .preim-vas {
+        flex-direction: column;
+        display: flex;
+        gap: 20px;
+        justify-content: center;
+        align-items: center; 
+    }
+
+    .detal {
+        text-align: center;
+        width: 302px;
+        height: 306px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .ekskl {
+        text-align: center;
+        width: 302px;
+        height: 326px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px; 
+    }
+
+
+    .preim-vas h1 {
+        font-size: 27px;
+    }
+
+    .preim-vas p {
+        font-size: 22px;
+    }
+
+}
+
+@media (max-width: 420px){
+
+    main {
+        padding-top: 40px;
+    }
+
+    .iskustvo {
+        width: 410px;
+        height: 1328px;
+        background-color: #E4E4E4;
+        margin-left: 0px;
+        justify-content: center;
+        border-radius: 30px;
+    }
+
+    .Komp {
+        text-align: center;
+        padding-bottom: 40px;
+        font-size: 27px;
+    }
+
+    .isk {
+        text-align: center;
+        justify-content: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-size: 27px;
+
+    }
+
+    .sled {
+        text-align: center;
+        width: 362px;
+        height: 458px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 0px;
+    }
+
+    .italon {
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .italon2 {
+        gap: 20px;
+    }
+
+    .ff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 362px;
+        height: 200px;
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+
+    .fff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 362px;
+        height: 200px;
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+
+    .ffff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 362px;
+        height: 200px;
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+
+    .sled h1 {
+        font-size: 27px;
+    }
+
+    .italon2 h1 {
+        font-size: 27px;
+    }
+
+    .sled p {
+        font-size: 22px;
+    }
+
+    .italon2 p {
+        font-size: 22px;
+        padding-right: 5px;
+    }
+
+    .preim {
+        width: 410px;
+        height: 888px;
+        background-color: #E4E4E4;
+        margin-left: 0px;
+        justify-content: center;
+        border-radius: 30px;
+        margin-top: 50px;
+    }
+
+    .prem_dl {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 27px;
+        align-items: center;
+    }
+
+    .preim-vas {
+        flex-direction: column;
+        display: flex;
+        gap: 20px;
+        justify-content: center;
+        align-items: center; 
+    }
+
+    .detal {
+        text-align: center;
+        width: 362px;
+        height: 306px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .ekskl {
+        text-align: center;
+        width: 362px;
+        height: 326px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px; 
+    }
+
+
+    .preim-vas h1 {
+        font-size: 27px;
+    }
+
+    .preim-vas p {
+        font-size: 22px;
+    }
+
+}
+
+@media (max-width: 320px){
+
+    main {
+        padding-top: 40px;
+    }
+
+    .iskustvo {
+        width: 310px;
+        height: 1188px;
+        background-color: #E4E4E4;
+        margin-left: 0px;
+        justify-content: center;
+        border-radius: 30px;
+    }
+
+    .Komp {
+        text-align: center;
+        padding-bottom: 40px;
+        font-size: 23px;
+    }
+
+    .isk {
+        text-align: center;
+        justify-content: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-size: 23px;
+
+    }
+
+    .sled {
+        text-align: center;
+        width: 282px;
+        height: 428px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 0px;
+    }
+
+    .italon {
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .italon2 {
+        gap: 20px;
+    }
+
+    .ff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 282px;
+        height: 170px;
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+
+    .fff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 282px;
+        height: 170px;
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+
+    .ffff {
+        background-color: #D9D9D9;
+        border-radius: 30px;
+        width: 282px;
+        height: 170px;
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+
+    .sled h1 {
+        font-size: 23px;
+    }
+
+    .italon2 h1 {
+        font-size: 23px;
+    }
+
+    .sled p {
+        font-size: 18px;
+    }
+
+    .italon2 p {
+        font-size: 18px;
+        padding-right: 5px;
+    }
+
+    .preim {
+        width: 310px;
+        height: 728px;
+        background-color: #E4E4E4;
+        margin-left: 0px;
+        justify-content: center;
+        border-radius: 30px;
+        margin-top: 50px;
+    }
+
+    .prem_dl {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-size: 23px;
+        align-items: center;
+    }
+
+    .preim-vas {
+        flex-direction: column;
+        display: flex;
+        gap: 20px;
+        justify-content: center;
+        align-items: center; 
+    }
+
+    .detal {
+        text-align: center;
+        width: 282px;
+        height: 226px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px;
+    }
+
+    .ekskl {
+        text-align: center;
+        width: 282px;
+        height: 256px;
+        border-radius: 30px;
+        background-color: #D9D9D9;
+        padding-top: 10px; 
+    }
+
+
+    .preim-vas h1 {
+        font-size: 23px;
+    }
+
+    .preim-vas p {
+        font-size: 18px;
+    }
+
+}
