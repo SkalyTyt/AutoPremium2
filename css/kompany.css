@@ -665,6 +665,66 @@ footer {
     main {
         padding-top: 40px;
     }
+    .header_menu ul{
+    list-style-type: none;
+    margin-left: 219px;
+    margin-top: -78px;
+}
+
+.header_menu a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.img_header{
+    margin-left: 86px;
+    margin-top: 35px;
+}
+
+.header_menu li{
+    display:inline-block ;
+    margin-right: 50px;
+}
+
+.menu li:hover {
+    border-bottom: 1px solid grey;
+}
+
+.header_login:hover {
+     cursor: pointer;
+     transform: scale(1.1);
+}
+
+.header_login img:hover {
+     cursor: pointer;
+}
+
+.search {
+    display: flex;
+    font-size: 20px;
+    margin-left: 800px;
+    margin-top: -60px;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    width: 320px;
+}
+
+.search_img {
+    margin-top: 0px;
+    margin-left: 174px;
+}
+
+.header_login {
+    margin-left: 1150px;
+    margin-top: -60px;
+}
+
+.logim_p {
+    margin-top: -10px;
+    margin-left: 5px;
+}
+
 
     .iskustvo {
         width: 1470px;
@@ -819,7 +879,65 @@ footer {
     main {
         padding-top: 40px;
     }
+.header_menu ul{
+    list-style-type: none;
+    margin-left: 219px;
+    margin-top: -78px;
+}
 
+.header_menu a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.img_header{
+    margin-left: 86px;
+    margin-top: 35px;
+}
+
+.header_menu li{
+    display:inline-block ;
+    margin-right: 50px;
+}
+
+.menu li:hover {
+    border-bottom: 1px solid grey;
+}
+
+.header_login:hover {
+     cursor: pointer;
+     transform: scale(1.1);
+}
+
+.header_login img:hover {
+     cursor: pointer;
+}
+
+.search {
+    display: flex;
+    font-size: 20px;
+    margin-left: 800px;
+    margin-top: -60px;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    width: 320px;
+}
+
+.search_img {
+    margin-top: 0px;
+    margin-left: 174px;
+}
+
+.header_login {
+    margin-left: 1150px;
+    margin-top: -60px;
+}
+
+.logim_p {
+    margin-top: -10px;
+    margin-left: 5px;
+}
     .iskustvo {
         width: 1370px;
         height: 1188px;
@@ -972,6 +1090,65 @@ footer {
     main {
         padding-top: 40px;
     }
+     .header_menu ul{
+    list-style-type: none;
+    margin-left: 219px;
+    margin-top: -78px;
+}
+
+.header_menu a {
+    text-decoration: none;
+     color: black;
+     font-size: 20px;
+}
+
+.img_header{
+        margin-left: 86px;
+        margin-top: 35px;
+}
+
+.header_menu li{
+    display:inline-block ;
+    margin-right: 50px;
+}
+
+.menu li:hover {
+    border-bottom: 1px solid grey;
+}
+
+.header_login:hover {
+     cursor: pointer;
+     transform: scale(1.1);
+}
+
+.header_login img:hover {
+     cursor: pointer;
+}
+
+.search {
+    display: flex;
+    font-size: 20px;
+    margin-left: 900px;
+    margin-top: -60px;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    width: 320px;
+}
+
+.search_img {
+    margin-top: 0px;
+    margin-left: 174px;
+}
+
+.header_login {
+    margin-left: 1250px;
+    margin-top: -60px;
+}
+
+.logim_p {
+    margin-top: -10px;
+    margin-left: 5px;
+}
 
     .iskustvo {
         width: 1270px;
@@ -1125,6 +1302,64 @@ footer {
     main {
         padding-top: 40px;
     }
+     .header_menu ul{
+    list-style-type: none;
+    margin-left: 219px;
+    margin-top: -78px;
+}
+    .header_menu a {
+    text-decoration: none;
+     color: black;
+     font-size: 20px;
+}
+
+.img_header{
+        margin-left: 86px;
+        margin-top: 35px;
+}
+
+.header_menu li{
+    display:inline-block ;
+    margin-right: 50px;
+}
+
+.menu li:hover {
+    border-bottom: 1px solid grey;
+}
+
+.header_login:hover {
+     cursor: pointer;
+     transform: scale(1.1);
+}
+
+.header_login img:hover {
+     cursor: pointer;
+}
+
+.search {
+    display: flex;
+    font-size: 20px;
+    margin-left: 850px;
+    margin-top: -60px;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    width: 320px;
+}
+
+.search_img {
+    margin-top: 0px;
+    margin-left: 174px;
+}
+
+.header_login {
+    margin-left: 1230px;
+    margin-top: -60px;
+}
+
+.logim_p {
+    margin-top: -10px;
+    margin-left: 5px;
+}
 
     .iskustvo {
         width: 1170px;
@@ -1279,7 +1514,65 @@ footer {
     main {
         padding-top: 40px;
     }
+ .header_menu ul{
+    list-style-type: none;
+    margin-left: 219px;
+    margin-top: -78px;
+}
 
+.header_menu a {
+    text-decoration: none;
+     color: black;
+     font-size: 18px;
+}
+
+.img_header{
+        margin-left: 66px;
+        margin-top: 2%;
+}
+
+.header_menu li{
+    display:inline-block ;
+    margin-right: 50px;
+}
+
+.menu li:hover {
+    border-bottom: 1px solid grey;
+}
+
+.header_login:hover {
+     cursor: pointer;
+     transform: scale(1.1);
+}
+
+.header_login img:hover {
+     cursor: pointer;
+}
+
+.search {
+    display: flex;
+    font-size: 15px;
+    margin-left: 750px;
+    margin-top: -60px;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    width: 300px;
+}
+
+.search_img {
+    margin-top: 0px;
+    margin-left: 174px;
+}
+
+.header_login {
+    margin-left: 1100px;
+    margin-top: -60px;
+}
+
+.logim_p {
+    margin-top: -10px;
+    margin-left: 5px;
+}
     .iskustvo {
         width: 1070px;
         height: 1188px;
@@ -1434,7 +1727,65 @@ footer {
     main {
         padding-top: 40px;
     }
+.header_menu ul{
+    list-style-type: none;
+    margin-left: 219px;
+    margin-top: -78px;
+}
 
+.header_menu a {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+}
+
+.img_header{
+    margin-left: 66px;
+    margin-top: 2%;
+}
+
+.header_menu li{
+    display:inline-block ;
+    margin-right: 50px;
+}
+
+.menu li:hover {
+    border-bottom: 1px solid grey;
+}
+
+.header_login:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.header_login img:hover {
+    cursor: pointer;
+}
+
+.search {
+    display: flex;
+    font-size: 15px;
+    margin-left: 630px;
+    margin-top: -60px;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    width: 300px;
+}
+
+.search_img {
+    margin-top: 0px;
+    margin-left: 174px;
+}
+
+.header_login {
+    margin-left: 950px;
+    margin-top: -60px;
+}
+
+.logim_p {
+    margin-top: -10px;
+    margin-left: 5px;
+}
     .iskustvo {
         width: 970px;
         height: 1188px;
@@ -1589,7 +1940,65 @@ footer {
     main {
         padding-top: 40px;
     }
+.header_menu ul{
+    list-style-type: none;
+    margin-left: 170px;
+    margin-top: -78px;
+}
 
+.header_menu a {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+}
+
+.img_header{
+    margin-left: 66px;
+    margin-top: 2%;
+}
+
+.header_menu li{
+    display:inline-block ;
+    margin-right: 30px;
+}
+
+.menu li:hover {
+    border-bottom: 1px solid grey;
+}
+
+.header_login:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.header_login img:hover {
+    cursor: pointer;
+}
+
+.search {
+    display: flex;
+    font-size: 14px;
+    margin-left: 530px;
+    margin-top: -60px;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    width: 300px;
+}
+
+.search_img {
+    margin-top: 0px;
+    margin-left: 174px;
+}
+
+.header_login {
+    margin-left: 850px;
+    margin-top: -60px;
+}
+
+.logim_p {
+    margin-top: -10px;
+    margin-left: 5px;
+}
     .iskustvo {
         width: 870px;
         height: 1188px;
@@ -1744,7 +2153,65 @@ footer {
     main {
         padding-top: 40px;
     }
+.header_menu ul{
+    list-style-type: none;
+    margin-left: 170px;
+    margin-top: -78px;
+}
 
+.header_menu a {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+}
+
+.img_header{
+    margin-left: 66px;
+    margin-top: 2%;
+}
+
+.header_menu li{
+    display:inline-block ;
+    margin-right: 30px;
+}
+
+.menu li:hover {
+    border-bottom: 1px solid grey;
+}
+
+.header_login:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.header_login img:hover {
+    cursor: pointer;
+}
+
+.search {
+    display: flex;
+    font-size: 14px;
+    margin-left: 530px;
+    margin-top: -60px;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    width: 300px;
+}
+
+.search_img {
+    margin-top: 0px;
+    margin-left: 174px;
+}
+
+.header_login {
+    margin-left: 850px;
+    margin-top: -60px;
+}
+
+.logim_p {
+    margin-top: -10px;
+    margin-left: 5px;
+}
     .iskustvo {
         width: 770px;
         height: 1578px;
@@ -1897,7 +2364,69 @@ footer {
     main {
         padding-top: 40px;
     }
+.header_menu ul{
+    list-style-type: none;
+    margin-left: 550px;
+    margin-top: -78px;
+    margin-bottom: 50px;
+}
 
+.header_menu a {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.img_header{
+    margin-left: 66px;
+    margin-top: 2%;
+}
+
+.header_menu li{
+    display: flex;
+    flex-direction: column;
+}
+
+.menu li:hover {
+    border-bottom: 1px solid grey;
+}
+
+.header_login:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.header_login img:hover {
+    cursor: pointer;
+}
+
+.search {
+    display: flex;
+    font-size: 17px;
+    margin-left: 230px;
+    margin-top: -150px;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    width: 300px;
+}
+
+.search_img {
+    margin-top: 0px;
+    margin-left: 174px;
+}
+
+.header_login {
+    display: none;
+    margin-left: 850px;
+    margin-top: -60px;
+}
+
+.logim_p {
+    margin-top: -10px;
+    margin-left: 5px;
+}
     .iskustvo {
         width: 670px;
         height: 1578px;
@@ -2050,7 +2579,70 @@ footer {
     main {
         padding-top: 40px;
     }
+.header_menu ul{
+    list-style-type: none;
+    margin-left: 520px;
+    margin-top: -78px;
+    margin-bottom: 50px;
+}
 
+.header_menu a {
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 15px;
+    width: 150px;
+}
+
+.img_header{
+    margin-left: 66px;
+    margin-top: 2%;
+}
+
+.header_menu li{
+    display: flex;
+    flex-direction: column;
+}
+
+.menu li:hover {
+    border-bottom: 1px solid grey;
+}
+
+.header_login:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.header_login img:hover {
+    cursor: pointer;
+}
+
+.search {
+    display: flex;
+    font-size: 17px;
+    margin-left: 230px;
+    margin-top: -150px;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    width: 300px;
+}
+
+.search_img {
+    margin-top: 0px;
+    margin-left: 174px;
+}
+
+.header_login {
+    display: none;
+    margin-left: 850px;
+    margin-top: -60px;
+}
+
+.logim_p {
+    margin-top: -10px;
+    margin-left: 5px;
+}
     .iskustvo {
         width: 570px;
         height: 1678px;
@@ -2203,6 +2795,44 @@ footer {
     main {
         padding-top: 40px;
     }
+.header_menu ul{
+    list-style-type: none;
+    margin-left: 420px;
+    margin-top: -78px;
+    margin-bottom: 50px;
+}
+
+.header_menu a {
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 15px;
+    width: 150px;
+}
+
+.img_header{
+    margin-left: 50px;
+    margin-top: 2%;
+}
+
+.header_menu li{
+    display: flex;
+    flex-direction: column;
+}
+
+.menu li:hover {
+    border-bottom: 1px solid grey;
+}
+
+.header_login:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.header_login img:hover {
+    cursor: pointer;
+}
 
     .iskustvo {
         width: 470px;
@@ -2356,7 +2986,70 @@ footer {
     main {
         padding-top: 40px;
     }
+.header_menu ul{
+    list-style-type: none;
+    margin-left: 200px;
+    margin-top: -78px;
+    margin-bottom: 50px;
+}
 
+.header_menu a {
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 15px;
+    width: 150px;
+}
+
+.img_header{
+    margin-left: 50px;
+    margin-top: 2%;
+}
+
+.header_menu li{
+    display: flex;
+    flex-direction: column;
+}
+
+.menu li:hover {
+    border-bottom: 1px solid grey;
+}
+
+.header_login:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.header_login img:hover {
+    cursor: pointer;
+}
+
+.search {
+    display: none;
+    font-size: 17px;
+    margin-left: 170px;
+    margin-top: -150px;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    width: 300px;
+}
+
+.search_img {
+    margin-top: 0px;
+    margin-left: 174px;
+}
+
+.header_login {
+    display: none;
+    margin-left: 850px;
+    margin-top: -60px;
+}
+
+.logim_p {
+    margin-top: -10px;
+    margin-left: 5px;
+}
     .iskustvo {
         width: 370px;
         height: 1608px;
@@ -2509,7 +3202,70 @@ footer {
     main {
         padding-top: 40px;
     }
+.header_menu ul{
+    list-style-type: none;
+    margin-left: 200px;
+    margin-top: -78px;
+    margin-bottom: 50px;
+}
 
+.header_menu a {
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 15px;
+    width: 150px;
+}
+
+.img_header{
+    margin-left: 50px;
+    margin-top: 2%;
+}
+
+.header_menu li{
+    display: flex;
+    flex-direction: column;
+}
+
+.menu li:hover {
+    border-bottom: 1px solid grey;
+}
+
+.header_login:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.header_login img:hover {
+    cursor: pointer;
+}
+
+.search {
+    display: none;
+    font-size: 17px;
+    margin-left: 170px;
+    margin-top: -150px;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    width: 300px;
+}
+
+.search_img {
+    margin-top: 0px;
+    margin-left: 174px;
+}
+
+.header_login {
+    display: none;
+    margin-left: 850px;
+    margin-top: -60px;
+}
+
+.logim_p {
+    margin-top: -10px;
+    margin-left: 5px;
+}
     .iskustvo {
         width: 410px;
         height: 1328px;
@@ -2662,6 +3418,70 @@ footer {
     main {
         padding-top: 40px;
     }
+.header_menu ul{
+    list-style-type: none;
+    margin-left: 50px;
+    margin-top: 78px;
+    margin-bottom: 50px;
+}
+
+.header_menu a {
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 15px;
+    width: 150px;
+}
+
+.img_header{
+    margin-left: 105px;
+    margin-top: 2%;
+}
+
+.header_menu li{
+    display: flex;
+    flex-direction: column;
+}
+
+.menu li:hover {
+    border-bottom: 1px solid grey;
+}
+
+.header_login:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.header_login img:hover {
+    cursor: pointer;
+}
+
+.search {
+    display: none;
+    font-size: 17px;
+    margin-left: 170px;
+    margin-top: -150px;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    width: 300px;
+}
+
+.search_img {
+    margin-top: 0px;
+    margin-left: 174px;
+}
+
+.header_login {
+    display: none;
+    margin-left: 850px;
+    margin-top: -60px;
+}
+
+.logim_p {
+    margin-top: -10px;
+    margin-left: 5px;
+}
 
     .iskustvo {
         width: 310px;
@@ -2809,6 +3629,7 @@ footer {
     }
 
 }
+
 
 
 
