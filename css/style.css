@@ -9,7 +9,7 @@
 }
 
 .header_menu a {
-     text-decoration: none;
+     text-decoration: underline;
      color: black;
      font-size: 24px;
 }
@@ -47,10 +47,6 @@
 .logim_p {
     margin-top: -10px;
     margin-left: 5px;
-}
-
-.menu li:hover {
-    border-bottom: 1px solid grey;
 }
 
 .header_login:hover {
@@ -850,5 +846,6 @@ footer {
         width: 750px;
     }
 }
+
 
 
