@@ -1026,20 +1026,70 @@ footer {
 }
 
 @media (max-width: 620px) {
-    .header_menu ul {
-        margin-left: 100px;
-    }
-    .header_menu li {
-        margin-right: 40px;
-    }
-    .search {
-        margin-left: 440px;
-        width: 80px;
-        font-size: 16px;
-    }
-    .header_login {
-        margin-left: 557px;
-    }
+.header_menu ul{
+    list-style-type: none;
+    margin-left: 420px;
+    margin-top: -78px;
+    margin-bottom: 50px;
+}
+
+.header_menu a {
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 15px;
+    width: 150px;
+}
+
+.img_header{
+    margin-left: 50px;
+    margin-top: 2%;
+}
+
+.header_menu li{
+    display: flex;
+    flex-direction: column;
+}
+
+.menu li:hover {
+    border-bottom: 1px solid grey;
+}
+
+.header_login:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.header_login img:hover {
+    cursor: pointer;
+}
+
+.search {
+    display: flex;
+    font-size: 17px;
+    margin-left: 170px;
+    margin-top: -150px;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    width: 300px;
+}
+
+.search_img {
+    margin-top: 0px;
+    margin-left: 174px;
+}
+
+.header_login {
+    display: none;
+    margin-left: 850px;
+    margin-top: -60px;
+}
+
+.logim_p {
+    margin-top: -10px;
+    margin-left: 5px;
+}
     footer {
         width: 600px;
     }
@@ -1052,18 +1102,14 @@ footer {
     .form p {
         margin-left: 690px;
     }
-    .search img {
-        margin-left: 50px;
-    }
+
     .Premium_main h1 {
         font-size: 60px;
     }
     .Premium_main p {
         font-size: 20px;
     }
-    .img_header {
-        margin-left: 10px;
-    }
+
 }
 
 @media (max-width: 520px) {
@@ -1249,6 +1295,7 @@ footer {
         width: 750px;
     }
 }
+
 
 
 
