@@ -224,9 +224,7 @@ footer {
     text-align: center;
     font-size: 16px;
 }
-.menu li:hover {
-    border-bottom: 1px solid grey;
-}
+
 .header_login:hover {
     cursor: pointer;
     transform: scale(1.1);
@@ -268,10 +266,6 @@ footer {
 .header_menu li{
     display:inline-block ;
     margin-right: 50px;
-}
-
-.menu li:hover {
-    border-bottom: 1px solid grey;
 }
 
 .header_login:hover {
@@ -344,10 +338,6 @@ footer {
     margin-right: 50px;
 }
 
-.menu li:hover {
-    border-bottom: 1px solid grey;
-}
-
 .header_login:hover {
      cursor: pointer;
      transform: scale(1.1);
@@ -418,9 +408,6 @@ footer {
     margin-right: 50px;
 }
 
-.menu li:hover {
-    border-bottom: 1px solid grey;
-}
 
 .header_login:hover {
      cursor: pointer;
@@ -492,9 +479,6 @@ footer {
     margin-right: 50px;
 }
 
-.menu li:hover {
-    border-bottom: 1px solid grey;
-}
 
 .header_login:hover {
      cursor: pointer;
@@ -566,9 +550,6 @@ footer {
     margin-right: 50px;
 }
 
-.menu li:hover {
-    border-bottom: 1px solid grey;
-}
 
 .header_login:hover {
      cursor: pointer;
@@ -640,9 +621,6 @@ footer {
     margin-right: 50px;
 }
 
-.menu li:hover {
-    border-bottom: 1px solid grey;
-}
 
 .header_login:hover {
      cursor: pointer;
@@ -714,9 +692,6 @@ footer {
     margin-right: 50px;
 }
 
-.menu li:hover {
-    border-bottom: 1px solid grey;
-}
 
 .header_login:hover {
     cursor: pointer;
@@ -810,9 +785,6 @@ footer {
     margin-right: 30px;
 }
 
-.menu li:hover {
-    border-bottom: 1px solid grey;
-}
 
 .header_login:hover {
     cursor: pointer;
@@ -887,9 +859,6 @@ footer {
     flex-direction: column;
 }
 
-.menu li:hover {
-    border-bottom: 1px solid grey;
-}
 
 .header_login:hover {
     cursor: pointer;
@@ -966,9 +935,6 @@ footer {
     flex-direction: column;
 }
 
-.menu li:hover {
-    border-bottom: 1px solid grey;
-}
 
 .header_login:hover {
     cursor: pointer;
@@ -1050,10 +1016,6 @@ footer {
 .header_menu li{
     display: flex;
     flex-direction: column;
-}
-
-.menu li:hover {
-    border-bottom: 1px solid grey;
 }
 
 .header_login:hover {
@@ -1139,9 +1101,6 @@ footer {
     flex-direction: column;
 }
 
-.menu li:hover {
-    border-bottom: 1px solid grey;
-}
 
 .header_login:hover {
     cursor: pointer;
@@ -1230,9 +1189,6 @@ footer {
     flex-direction: column;
 }
 
-.menu li:hover {
-    border-bottom: 1px solid grey;
-}
 
 .header_login:hover {
     cursor: pointer;
@@ -1330,9 +1286,6 @@ footer {
     flex-direction: column;
 }
 
-.menu li:hover {
-    border-bottom: 1px solid grey;
-}
 
 .header_login:hover {
     cursor: pointer;
@@ -1424,6 +1377,7 @@ footer {
         width: 750px;
     }
 }
+
 
 
 
