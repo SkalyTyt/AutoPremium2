@@ -1,0 +1,575 @@
+html {
+  font-family: "Sansation", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+
+body {
+margin: 0;
+padding: 0;
+background-image: url(../img/Buggati/bugatti-divo-bugatti-divo\ 1.png);
+background-size: 100% 100%;
+background-repeat: no-repeat;
+height: 900px;
+}
+
+header {
+    margin-top: 80px;
+    font-size: 36px;
+    display: flex;
+    justify-content: space-around;
+}
+.header-li {
+    color: black;
+    text-decoration: none;
+    height: 50px;
+    align-items: center;
+    display: flex;
+}
+
+.desctiprion {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    text-align: center;
+    width: 1500px;
+    margin-top: 1000px;
+    margin-left: 200px;
+    
+}
+.peculiarities {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 200px;
+    color: white;
+    font-size: 36px;
+    margin-top: 170px;
+    place-items: center;
+}
+.peculiarity-text {
+    display: flex;
+    width: 405px;
+    text-align: center;
+    justify-items: center;
+    align-items: center;
+}
+.peculiarity-1 {  
+    display: flex;
+    justify-content: center;
+    width: 620px;
+    width: 350px;
+    background-image: url(../img/Buggati/image1.png);
+    height: 350px;
+    width: 600px;
+    border-radius: 30px;
+    background-size: 100% 100%;
+}
+
+.peculiarity-2 {  
+    display: flex;
+    justify-content: center;
+    width: 620px;
+    width: 350px;
+    background-image: url(../img/Buggati/image2.png);
+    height: 350px;
+    width: 600px;
+    border-radius: 30px;
+    background-size: 100% 100%;
+}
+.peculiarity-3 {  
+    display: flex;
+    justify-content: center;
+    width: 620px;
+    width: 350px;
+    background-image: url(../img/Buggati/image3.png);
+    height: 350px;
+    width: 600px;
+    border-radius: 30px;
+    background-size: 100% 100%;
+}
+.peculiarity-4 {  
+    display: flex;
+    justify-content: center;
+    width: 620px;
+    width: 350px;
+    background-image: url(../img/Buggati/image4.png);
+    height: 350px;
+    width: 600px;
+    border-radius: 30px;
+    background-size: 100% 100%;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    margin: 0 auto;
+    border-bottom: 2px solid black;
+    width: 1650px;
+}
+.footer-nav {
+    display: flex;
+    gap: 50px;
+    font-size: 20px;
+}
+.footer-li {
+    display: flex;
+    align-items: center;
+}
+.down-footer {
+    text-align: center;
+    font-size: 16px;
+}
+
+@media (max-width: 1720px) {
+    header {
+        font-size: 24px;
+        justify-content: center;
+        gap: 170px
+    }
+    body {
+    height: 500px;
+    }
+    .desctiprion {
+    font-size: 20px;
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 550px;
+
+}
+.peculiarities {
+    margin-top: 130px;
+}
+    .peculiarity-1 {  
+    width: 450px;
+    height: 250px;
+}
+
+.peculiarity-2 {  
+    width: 450px;
+    height: 250px;
+}
+.peculiarity-3 {  
+    width: 450px;
+    height: 250px;
+}
+.peculiarity-4 {  
+    width: 450px;
+    height: 250px;
+}
+.peculiarities {
+    gap: 80px;
+    font-size: 28px;
+}
+footer {
+    display: flex;
+    gap: 100px;
+    border-bottom: 1px solid black;
+    width: 1720px;
+}
+.footer-nav {
+    gap: 50px;
+    font-size: 16px;
+}
+.footer-li {
+    height: 50px;
+    margin-top: 60px;
+}
+.down-footer {
+    font-size: 12px;
+}
+}
+
+@media (max-width: 1520px) {
+ header {
+        font-size: 24px;
+        justify-content: center;
+        gap: 170px;
+        margin-top: 40px;
+    }
+    body {
+    height: 500px;
+    }
+    .desctiprion {
+    font-size: 20px;
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 550px;
+
+}
+.peculiarities {
+    margin-top: 130px;
+}
+    .peculiarity-1 {  
+    width: 450px;
+    height: 250px;
+}
+
+.peculiarity-2 {  
+    width: 450px;
+    height: 250px;
+}
+.peculiarity-3 {  
+    width: 450px;
+    height: 250px;
+}
+.peculiarity-4 {  
+    width: 450px;
+    height: 250px;
+}
+.peculiarities {
+    gap: 80px;
+    font-size: 28px;
+}
+footer {
+    display: flex;
+    gap: 100px;
+    border-bottom: 1px solid black;
+    width: 1520px;
+    height: 100px;
+}
+.footer-nav {
+    gap: 50px;
+    font-size: 16px;
+}
+.footer-li {
+    height: 50px;
+    margin-top: 50px;
+}
+.down-footer {
+    font-size: 12px;
+}
+.logo  {
+    width: 100px;
+}
+.login {
+    width: 60px;
+}
+.logo1 {
+    width: 90px;
+}
+}
+@media (max-width: 1320px) {
+    header {
+        font-size: 24px;
+        justify-content: center;
+        gap: 170px;
+        margin-top: 40px;
+    }
+    body {
+    height: 500px;
+    }
+    .desctiprion {
+    font-size: 20px;
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 550px;
+
+}
+.peculiarities {
+    margin-top: 130px;
+}
+    .peculiarity-1 {  
+    width: 450px;
+    height: 250px;
+}
+
+.peculiarity-2 {  
+    width: 450px;
+    height: 250px;
+}
+.peculiarity-3 {  
+    width: 450px;
+    height: 250px;
+}
+.peculiarity-4 {  
+    width: 450px;
+    height: 250px;
+}
+.peculiarities {
+    gap: 80px;
+    font-size: 28px;
+}
+footer {
+    display: flex;
+    gap: 100px;
+    border-bottom: 1px solid black;
+    width: 1320px;
+    height: 100px;
+}
+.footer-nav {
+    gap: 50px;
+    font-size: 16px;
+}
+.footer-li {
+    height: 50px;
+    margin-top: 50px;
+}
+.down-footer {
+    font-size: 12px;
+}
+.logo  {
+    width: 100px;
+}
+.login {
+    width: 60px;
+}
+.logo1 {
+    width: 90px;
+}
+}
+@media (max-width: 1120px) {
+        header {
+        font-size: 24px;
+        justify-content: center;
+        gap: 140px;
+        margin-top: 40px;
+    }
+    body {
+    height: 500px;
+    }
+    .desctiprion {
+    font-size: 20px;
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 550px;
+
+}
+.peculiarities {
+    display: flex;
+    flex-direction: column;
+}
+    .peculiarity-1 {  
+    width: 450px;
+    height: 250px;
+}
+
+.peculiarity-2 {  
+    width: 450px;
+    height: 250px;
+}
+.peculiarity-3 {  
+    width: 450px;
+    height: 250px;
+}
+.peculiarity-4 {  
+    width: 450px;
+    height: 250px;
+}
+.peculiarities {
+    gap: 80px;
+    font-size: 28px;
+}
+footer {
+    display: flex;
+    gap: 100px;
+    border-bottom: 1px solid black;
+    width: 1120px;
+    height: 100px;
+}
+.footer-nav {
+    gap: 50px;
+    font-size: 16px;
+}
+.footer-li {
+    height: 50px;
+    margin-top: 50px;
+}
+.down-footer {
+    font-size: 12px;
+}
+.logo  {
+    width: 100px;
+}
+.login {
+    width: 60px;
+}
+.logo1 {
+    width: 90px;
+}
+}
+@media (max-width: 920px) {
+            header {
+        font-size: 20px;
+        justify-content: center;
+        gap: 100px;
+        margin-top: 40px;
+    }
+    body {
+    height: 300px;
+    }
+    .desctiprion {
+    width: 700px;
+    margin-top: 350px;
+}
+.peculiarity-text {
+    font-size: 20px;
+    width: 200px;
+}
+footer {
+    width: 920px;
+}
+}
+@media (max-width: 720px) {
+    header {
+        font-size: 16px;
+        justify-content: center;
+        gap: 70px;
+        margin-top: 40px;
+    }
+    body {
+    height: 300px;
+    }
+    .desctiprion {
+        margin-top: 300px;
+        width: 600px;
+        font-size: 16px;
+}
+.peculiarity-text {
+    font-size: 20px;
+    width: 200px;
+}
+footer {
+    width: 720px;
+}
+.logo {
+    width: 70px;
+}
+.logo1 {
+   width: 70px;
+}
+.footer-logo {
+    display: flex;
+    align-items: center;
+}
+}
+@media (max-width: 520px) {
+        header {
+        font-size: 14px;
+        justify-content: center;
+        gap: 50px;
+        margin-top: 20px;
+    }
+    body {
+    height: 230px;
+    }
+    .desctiprion {
+        margin-top: 200px;
+        width: 350px;
+        font-size: 16px;
+}
+.peculiarities {
+    margin-top: 60px;
+    font-size: 14px;
+}
+   .peculiarity-1 {  
+    width: 250px;
+    height: 150px;
+}
+
+.peculiarity-2 {  
+    width: 250px;
+    height: 150px;
+}
+.peculiarity-3 {  
+    width: 250px;
+    height: 150px;
+}
+.peculiarity-4 {  
+    width: 250px;
+    height: 150px;
+}
+.peculiarity-text {
+    font-size: 20px;
+    width: 200px;
+}
+footer {
+    width: 520px;
+}
+.logo {
+    width: 50px;
+}
+.logo1 {
+   width: 50px;
+}
+.login {
+    width: 50px;
+}
+.footer-logo {
+    display: flex;
+    align-items: center;
+}
+}
+
+@media (max-width: 320px) {
+            header {
+        font-size: 10px;
+        justify-content: center;
+        gap: 35px;
+        margin-top: 20px;
+    }
+    body {
+    height: 230px;
+    }
+    .desctiprion {
+        margin-top: 200px;
+        width: 250px;
+        font-size: 8px;
+}
+.peculiarities {
+    margin-top: 30px;
+    font-size: 14px;
+    gap: 10px;
+}
+   .peculiarity-1 {  
+    width: 190px;
+    height: 110px;
+}
+
+.peculiarity-2 {  
+    width: 190px;
+    height: 110px;
+}
+.peculiarity-3 {  
+    width: 190px;
+    height: 110px;
+}
+.peculiarity-4 {  
+    width: 190px;
+    height: 110px;
+}
+.peculiarity-text {
+    font-size: 10px;
+    width: 150px;
+}
+footer {
+    width: 220px;
+    height: 40px;
+}
+.footer-nav {
+    gap: 2px;
+    flex-direction: column;
+    align-items: center;
+}
+.footer-li {
+    font-size: 10px;
+    margin: 0;
+    height: 10px;
+    align-items: center;
+}
+.logo {
+    width: 30px;
+}
+.logo1 {
+   width: 50px;
+}
+.login {
+    width: 30px;
+}
+.footer-logo {
+    display: flex;
+    align-items: center;
+}
+}
