@@ -244,7 +244,65 @@ footer {
     main {
         padding-top: 40px;
     }
+ .header_menu ul{
+    list-style-type: none;
+    margin-left: 219px;
+    margin-top: -78px;
+}
 
+.header_menu a {
+    text-decoration: none;
+     color: black;
+     font-size: 23px;
+}
+
+.img_header{
+        margin-left: 86px;
+        margin-top: 35px;
+}
+
+.header_menu li{
+    display:inline-block ;
+    margin-right: 50px;
+}
+
+.menu li:hover {
+    border-bottom: 1px solid grey;
+}
+
+.header_login:hover {
+     cursor: pointer;
+     transform: scale(1.1);
+}
+
+.header_login img:hover {
+     cursor: pointer;
+}
+
+.search {
+    display: flex;
+    font-size: 20px;
+    margin-left: 900px;
+    margin-top: -60px;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    width: 320px;
+}
+
+.search_img {
+    margin-top: 0px;
+    margin-left: 174px;
+}
+
+.header_login {
+    margin-left: 1250px;
+    margin-top: -60px;
+}
+
+.logim_p {
+    margin-top: -10px;
+    margin-left: 3px;
+}
     .iskustvo {
         width: 1670px;
         height: 1268px;
@@ -2751,5 +2809,6 @@ footer {
     }
 
 }
+
 
 
