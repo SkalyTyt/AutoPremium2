@@ -3051,10 +3051,10 @@ footer {
     font-size: 20px;
 }
 
-.footer-li {
-    display: flex;
-    padding-left: 250px;
-}
+ .footer-li {
+        margin-right: 1px;
+        font-size: 13px;
+    }
 
 .down-footer {
     margin-left: 50px;
@@ -3368,9 +3368,10 @@ footer {
     margin-left: -650px;
 }
 
-.footer-li {
-    display: flex;
-}
+ .footer-li {
+        margin-right: 1px;
+        font-size: 13px;
+    }
 
 .down-footer {
     margin-left: 10px;
@@ -3379,3 +3380,4 @@ footer {
 
 
 }
+
