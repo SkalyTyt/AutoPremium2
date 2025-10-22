@@ -3,19 +3,23 @@
     margin-left: 319px;
     margin-top: -78px;
 }
+
 .header_menu a {
      text-decoration: none;
      color: black;
      font-size: 24px;
 }
+
 .img_header{
-margin-left: 86px;
-margin-top: 35px;
+        margin-left: 86px;
+        margin-top: 35px;
 }
+
 .header_menu li{
     display:inline-block ;
     margin-right: 148px;
 }
+
 .search {
     display: flex;
     font-size: 20px;
@@ -25,14 +29,17 @@ margin-top: 35px;
     border-bottom: 1px solid gray;
     width: 520px;
 }
+
 .search_img {
-margin-top: 0px;
-margin-left: 374px;
+    margin-top: 0px;
+    margin-left: 374px;
 }
+
 .header_login {
     margin-left: 1796px;
     margin-top: -60px;
 }
+
 .logim_p {
     margin-top: -10px;
     margin-left: 5px;
@@ -41,11 +48,13 @@ margin-left: 374px;
 .menu li:hover {
     border-bottom: 1px solid grey;
 }
+
 .header_login:hover {
 
      cursor: pointer;
      transform: scale(1.1);
 }
+
 .header_login img:hover {
 
      cursor: pointer;
@@ -2684,3 +2693,4 @@ footer {
     }
 
 }
+
