@@ -105,3 +105,10 @@ footer {
     border-bottom: 1px solid black;
     color:  black;  
 }
+
+@media (max-width: 1720px) {
+.img_header {
+    width: 20px
+}
+}
+
