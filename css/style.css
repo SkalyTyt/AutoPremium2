@@ -1333,7 +1333,7 @@ footer {
         margin-left: 1px;
     }
     .form {
-        margin-left: -790px;
+        margin-left: -785px;
     }
     .form h1 {
         margin-left: 810px;
@@ -1347,6 +1347,7 @@ footer {
 
     .Premium_main h1 {
         font-size: 40px;
+        text-align: center;
     }
     .Premium_main p {
         font-size: 16px;
@@ -1356,7 +1357,7 @@ footer {
         margin-left: -30px;
     }
     .Premium_main {
-        margin-left: 70px;
+        margin-left: 60px;
     }
 }
 
@@ -1378,6 +1379,7 @@ footer {
         width: 750px;
     }
 }
+
 
 
 
