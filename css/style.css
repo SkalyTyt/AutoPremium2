@@ -1346,7 +1346,7 @@ footer {
     }
 
     .Premium_main h1 {
-        font-size: 50px;
+        font-size: 40px;
     }
     .Premium_main p {
         font-size: 16px;
@@ -1356,7 +1356,7 @@ footer {
         margin-left: -30px;
     }
     .Premium_main {
-        margin-left: 65px;
+        margin-left: 70px;
     }
 }
 
@@ -1378,6 +1378,7 @@ footer {
         width: 750px;
     }
 }
+
 
 
 
